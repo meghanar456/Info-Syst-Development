@@ -1,0 +1,1 @@
+This is a repository containing all the BUS 442 in class PyQt applications.
